@@ -11,7 +11,7 @@ eg:led a.txt
 
 If the file alread exits it opens if not then new text file opens.
 Modes Supported:-
-1.Input Mode :-commands a and i put led into input mode.
+1.Input Mode :-commands a and i put led into input mode./n
 2.Command Mode-(default)-: symbol represents the command mode.Dot character(.) is entered to get back into command mode.
 
 Commands Supported:-
